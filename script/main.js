@@ -298,7 +298,7 @@ const animationTimeline = () => {
   // Restart Animation on click
   const replyBtn = document.getElementById("replay");
   replyBtn.addEventListener("click", () => {
-    window.location.replace("https://geralt-of-livia.github.io/birthday-card/")
+    window.location.replace("https://pbbhbdcd.netlify.app/")
   });
 };
 
