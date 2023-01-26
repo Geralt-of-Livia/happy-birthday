@@ -298,7 +298,7 @@ const animationTimeline = () => {
   // Restart Animation on click
   const replyBtn = document.getElementById("replay");
   replyBtn.addEventListener("click", () => {
-    window.location.replace("https://pbbhbdcd.netlify.app/")
+    window.location.replace("	https://bdc-1316627697.cos-website.ap-nanjing.myqcloud.com")
   });
 };
 
